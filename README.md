@@ -1,3 +1,30 @@
+# NLP Capstone — Training Repository
+
+## Training Profile
+
+- **Name:** Ayush Dudhat
+- **Registration Number:** 23FE10CDS00293
+- **Branch:** Computer Science & Engineering (Data Science specialization)
+- **Batch:** F
+- **Project Title:** Sentinel AI — Continuous Audit Intelligence
+- **GitHub Username:** [Ayushd172005](https://github.com/Ayushd172005)
+- **Training Program:** Batch F NLP Capstone Project Training Program, Manipal University Jaipur
+
+## Repository Navigation
+
+- [Assignments](assignments/)
+- [Notebooks](notebooks/)
+- [Code](code/)
+- [Resources](resources/)
+- [Presentations](presentations/)
+- [Capstone](capstone/)
+- [Contribution and weekly update workflow](CONTRIBUTING.md)
+- [Final submission checklist](SUBMISSION_CHECKLIST.md)
+
+> This personal repository is being organized to meet Steps 4–12 of the Batch F Capstone Project Guidelines. The existing Sentinel AI project documentation below is retained.
+
+---
+
 # NLP PROJECT
 
 # 🛡️ Sentinel AI — Continuous Audit Intelligence
