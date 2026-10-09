@@ -1,4 +1,4 @@
-# Batch F NLP Capstone — Training Repository
+# NLP Capstone — Training Repository
 
 ## Training Profile
 
