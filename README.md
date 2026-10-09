@@ -1,4 +1,4 @@
-# Delloite_Capstone
+# NLP PROJECT
 
 # 🛡️ Sentinel AI — Continuous Audit Intelligence
 
